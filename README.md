@@ -10,7 +10,7 @@ It consists of wifi connected control module with 8 outputs, two-channel power m
 
 Schematics, PCB and BOM: https://easyeda.com/dariuskt/led-strip-controller
 
-### xl4001-2pwr
+### xl4001x2-pwr
 
 Schematics, PCB and BOM: https://easyeda.com/dariuskt/led-project-power-module-2ch
 
